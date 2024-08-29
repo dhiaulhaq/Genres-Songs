@@ -1,0 +1,34 @@
+[
+    {
+        "id" : 1,
+        "name" : "Pop"
+    },
+    {
+        "id" : 2,
+        "name" : "Rock"
+    },
+    {
+        "id" : 3,
+        "name" : "Punk"
+    },
+    {
+        "id" : 4,
+        "name" : "J-Pop"
+    },
+    {
+        "id" : 5,
+        "name" : "Jazz"
+    },
+    {
+        "id" : 6,
+        "name" : "Dangdut"
+    },
+    {
+        "id" : 7,
+        "name" : "RnB"
+    },
+    {
+        "id" : 8,
+        "name" : "EDM"
+    }
+]
